@@ -2,7 +2,7 @@
 
 
 # Enter your username here
-USERNAME=JulianKeller
+USERNAME=JohnDoe
 
 # get the name of the directory
 echo "What is the name of the repo?"
