@@ -5,7 +5,11 @@ This bash script creates a new git repository on your local machine and pushes i
 Unix Environment 
 
 ## Getting Started
-Download makeRepo.sh and make the script executable. 
+Download makeRepo.sh. 
+
+Open the script with your favorite text editor. Change the line at the top which says 'USERNAME=JohnDoe" to say your GitHub username instead of JohnDoe.
+
+Make the script executable. 
 ```
 chmod u+x makeRepo.sh
 ```
