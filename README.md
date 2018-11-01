@@ -1,5 +1,5 @@
 # Make Repo
-This bash script creates a new git repository on your local machine and pushes it to GitHub. 
+This bash script creates a new git repository on your local machine and pushes it to GitHub. It will create a blank README.md and .gitignore automatically. It will also prompt you if you wish to create any other files.
 
 ## Requirements
 Unix Environment 
